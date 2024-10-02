@@ -1,0 +1,16 @@
+{
+  "name": "ws_nodejs_project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha",
+    "build": "webpack --config webpack.config.js",
+    "dev": "nodemon server.js"
+  }
+  ,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
